@@ -37,7 +37,7 @@ public class NotifyUserOnDueDate {
         String message = "Greetings Member. This message is to remind you that the due date for the book you borrowed is TODAY!!! Kindly remember to return the book in time. Thank You!!!";		
 		String phone = abc;
 		String username = "Varundeepak";
-		String password = "dishapatani";
+		String password = "";
 		String address = "http://192.168.1.101";
 		String port = "8090";
 		
